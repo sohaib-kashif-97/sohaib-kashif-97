@@ -3,16 +3,26 @@
 **`AI Software Developer at Kalaam4Solutions | .NET Development | ROS2 and Gazebo Development | Game Design and Development | Robotics Simulation | Web Development and Deployment`**
 
 
-A passionate AI Developer from Deakin University, with a great passion for software and 
+A passionate AI Developer from Deakin University, with a great passion for software and electronics.
 
-- 🌱 I’m currently learning **ROS Programming at a more Deeper Level!!**
+I am a resilient, skeptical, and pragmatic professional who constantly self-evaluates and self-reflects on himself to become a better version of himself. Not only I am persistent to make things gradually better, but I also thrive in the process as well.
 
-- 🤝 I’m looking for help with **Arduino Projects**
+Asides than a selfless and contributing individual, I also consider myself to possess crucial leadership qualities. I can put myself along with my teammates aligned to any goal or challenge set before us and push them forward for success. I find myself as a team player who has made selfless decisions, divided tasks as per roles and enjoyed my multiplied success with my peers. As a leader, I also realize the gravity of leading by example rather than handing out paperwork and some instructions.
 
-- 📫 How to reach me **14sohaibbk97@gmail.com**
+I am a competent programmer in languages like Python and C#, having a keen eye for logical intricacies while swiftly and efficiently coding and debugging programs. With the completion of my Master’s degree, I am now a capable developer with Web and .NET Applications.
+
+- 📫 How to reach me: **14sohaibbk97@gmail.com** 
 
 - ⚡ Fun fact **I'm a huge RC Vehicles and Robotics Enthusiast**
 
+
+---
+
+### 📊 Stats
+
+I might be new here but stick around for more. I recently created a new profile (Old one was on my Uni Email and is no longer available)
+
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib-kashif-97&show_icons=true&theme=gruvbox)
 
 ---
 
