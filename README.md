@@ -13,7 +13,7 @@ I am a competent programmer in languages like Python and C#, having a keen eye f
 
 - 📫 How to reach me: **14sohaibbk97@gmail.com** 
 
-- ⚡ Fun fact **I'm a huge RC Vehicles and Robotics Enthusiast**
+- ⚡ Fun fact **I'm a RC Cars and Robotics Enthusiast**
 
 
 ---
