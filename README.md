@@ -8,7 +8,7 @@ Asides than a selfless and contributing individual, I also consider myself to po
 
 I am a competent programmer in languages like Python and C#, having a keen eye for logical intricacies while swiftly and efficiently coding and debugging programs. With the completion of my Master’s degree, I am now a capable developer with Web and .NET Applications. 
 
-- ⚡ Fun fact **I'm a RC Cars Enthusiast. I also love Origami and Sculptering Robots in my part time!**
+**⚡Fun fact: I'm a RC Cars Enthusiast. I also love Origami and Sculptering Robots in my part time!**
 
 ---
 
