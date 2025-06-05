@@ -1,6 +1,6 @@
 <h1 align="center">G'Day 👋, This is Sammy here!</h1>
 
-A passionate AI Software Developer (and also a Robotics Rocket Scientist) from Deakin University, with a great passion for software and electronics.
+A passionate AI Software Developer (and also a Robotics Rocket Scientist) graduated from Deakin University, with a great passion for software and electronics.
 
 I am a resilient, skeptical, and pragmatic professional who constantly self-evaluates and self-reflects on himself to become a better version of himself. Not only I am persistent to make things gradually better, but I also thrive in the process as well.
 
@@ -8,7 +8,7 @@ Asides than a selfless and contributing individual, I also consider myself to po
 
 I am a competent programmer in languages like Python and C#, having a keen eye for logical intricacies while swiftly and efficiently coding and debugging programs. With the completion of my Master’s degree, I am now a capable developer with Web and .NET Applications. 
 
-**⚡Fun fact: I'm a RC Cars Enthusiast. I also love Origami and Sculptering Robots in my part time!**
+**⚡Fun fact: I like building and modifying RC Cars for Leisure. I also love Origami and Sculptering Robots!**
 
 ---
 
@@ -46,8 +46,9 @@ I might be new here but stick around for more. I recently created a new profile 
     - .NET Development
     - Full-Stack Software Development
     - Deep Learning and Computer Vision
+    - Reinforcment Learning
+    - DSAs in Software
     - Microcontroller Programming
-    - Swarming Intelligence
     - AI/ML Model Development, Optimisation and Deployment
     - Data Science and Analytics
     - Data Engineering & ETL Pipelines
