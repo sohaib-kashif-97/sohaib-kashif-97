@@ -12,15 +12,48 @@ I am a competent programmer in languages like Python and C#, having a keen eye f
 
 ---
 
+### 🚀 What I'm Upskilling On?
+
+I'm diving into several exciting areas to build my technical skills and explore innovative technologies:
+
+**Data Structures and Algorithms (DSAs):** Actively learning and practicing core DSAs to strengthen my problem-solving skills. Focusing on arrays, linked lists, trees, graphs, and algorithms like sorting, searching, and dynamic programming. Currently working through problems on platforms like LeetCode to solidify my understanding.
+
+**Arduino Crash Course:** Exploring the Arduino ecosystem to understand microcontroller programming. Experimenting with sensors, actuators, and basic circuits to create small projects. My goal is to master the basics of embedded systems and apply them to real-world applications.
+
+**ESP32 Crash Course:** Learning to use the ESP32 microcontroller for potential wireless projects. Studying its Wi-Fi and Bluetooth capabilities, as well as its integration with sensors and cloud platforms. Currently experimenting with simple projects like remote sensor monitoring and basic home automation.
+
+---
+
+### 📝 Research Paper in Progress - Flocking Boids:
+
+I'm working on a research paper exploring the Flocking Boids model, a computational simulation of collective behavior inspired by the movement of birds and other animals. The paper focuses on the following:
+
+**Objective:** Investigate the principles of flocking behavior using Craig Reynolds' Boids algorithm, which simulates coordinated motion through simple rules: separation, alignment, and cohesion.
+
+**Scope:** Analyzing how variations in rule parameters (e.g., distance thresholds, weights of rules) affect emergent behaviors. Exploring potential applications in robotics, computer graphics, and swarm intelligence.
+
+**Methodology:** Implementing a Boids simulation in Python (using libraries like Pygame or Matplotlib for visualization) to test hypotheses. Conducting experiments to measure stability, convergence, and adaptability of flocks under different conditions.
+
+**Current Progress:** Developing the simulation code and defining experimental parameters, while observing their interaction in parameter hyperspace.
+
+**Future Goals:** Complete the simulation, analyze results, and draft the paper. Plan to submit to a relevant journal or conference in the fields of artificial intelligence or computational modeling.
+
+---
+
 ### 📊 Stats:
 
 I might be new here but stick around for more. I recently created a new profile (Old one was on my Uni Email and is no longer available!!)
 
 ![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib-kashif-97&show_icons=true&theme=gruvbox)
 
+# LeetCode Stats Card
+
+[![CodeFactor](https://www.codefactor.io/repository/github/sohaib-kashif-97/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/sohaib-kashif-97/leetcode-stats-card)
+
+
 ---
 
-### 🌐📫 How to reach me? Connect with me on my Profiles & Socials Below:
+### 📫 How to reach me? Connect with me on my Profiles & Socials Below:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" height="30" width="40" /> LinkedIn Profile </a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/14sohaibbk97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/14sohaibbk97" height="30" width="40" /> Hackerrank </a>
