@@ -40,15 +40,18 @@ I'm working on a research paper exploring the Flocking Boids model, a computatio
 
 ---
 
-### 📊 Stats:
+### 📊 GitHub Stats Card:
 
 I might be new here but stick around for more. I recently created a new profile (Old one was on my Uni Email and is no longer available!!)
 
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib-kashif-97&show_icons=true&theme=gruvbox)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaib-kashif-97&show_icons=true&theme=gruvbox" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-kashif-97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+</div>
 
-# LeetCode Stats Card
-
-[![CodeFactor](https://www.codefactor.io/repository/github/sohaib-kashif-97/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/sohaib-kashif-97/leetcode-stats-card)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib-kashif-97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 ---
