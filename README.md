@@ -30,13 +30,13 @@ I'm working on a research paper exploring the Flocking Boids model, a computatio
 
 **Objective:** Investigate the principles of flocking behavior using Craig Reynolds' Boids algorithm, which simulates coordinated motion through simple rules: separation, alignment, and cohesion.
 
-**Scope:** Analyzing how variations in rule parameters (e.g., distance thresholds, weights of rules) affect emergent behaviors. Exploring potential applications in robotics, computer graphics, and swarm intelligence.
+---
 
-**Methodology:** Implementing a Boids simulation in Python (using libraries like Pygame or Matplotlib for visualization) to test hypotheses. Conducting experiments to measure stability, convergence, and adaptability of flocks under different conditions.
+### 📝 New Article in Progress - How to get started with ROS2 and Gazebo Simulation:
 
-**Current Progress:** Developing the simulation code and defining experimental parameters, while observing their interaction in parameter hyperspace.
+I'm creating a new article on my recent experience with 3D Simulations in ROS2 and Gazebo. I will divide the content into two halves (So stay tuned for Part 2!) for ease of understanding.
 
-**Future Goals:** Complete the simulation, analyze results, and draft the paper. Plan to submit to a relevant journal or conference in the fields of artificial intelligence or computational modeling.
+**Objective:** I will be implementing a simple Quadcopter which can be moved with a simple Velocity Controller and Odometry Plugin.
 
 ---
 
