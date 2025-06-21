@@ -77,7 +77,6 @@ I might be new here but stick around for more. I recently created a new profile 
   - **Embedded MicroControllers of Choice:** Arduino UNO R3, Raspberry Pi 3B, ESP32 , PIC32 Series
   - **Operating Systems:** Windows, Linux
   - **Expertise**:  
-    - AI Research
     - Game Level Design/ Game Development
     - .NET Development
     - Full-Stack Software Development
