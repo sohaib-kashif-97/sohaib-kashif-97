@@ -24,14 +24,6 @@ I'm diving into several exciting areas to build my technical skills and explore 
 
 ---
 
-### 📝 Research Paper in Progress - Flocking Boids:
-
-I'm working on a research paper exploring the Flocking Boids model, a computational simulation of collective behavior inspired by the movement of birds and other animals. The paper focuses on the following:
-
-**Objective:** Investigate the principles of flocking behavior using Craig Reynolds' Boids algorithm, which simulates coordinated motion through simple rules: separation, alignment, and cohesion.
-
----
-
 ### 📝 New Article in Progress - How to get started with ROS2 and Gazebo Simulation:
 
 I'm creating a new article on my recent experience with 3D Simulations in ROS2 and Gazebo. I will divide the content into two halves (So stay tuned for Part 2!) for ease of understanding.
