@@ -12,6 +12,18 @@ I am a competent programmer in languages like Python and C#, having a keen eye f
 
 ---
 
+## 💭 **Quote of the Day**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational Quote" />
+</div>
+
+<div align="center">
+  <i>"Achieving less is okay, Aiming less is a Crime."</i>
+</div>
+
+---
+
 ### 🚀 What I'm Upskilling On?
 
 I'm diving into several exciting areas to build my technical skills and explore innovative technologies:
