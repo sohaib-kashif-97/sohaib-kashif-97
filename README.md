@@ -18,10 +18,6 @@ I am a competent programmer in languages like Python and C#, having a keen eye f
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational Quote" />
 </div>
 
-<div align="center">
-  <i>"Achieving less is okay, Aiming less is a Crime."</i>
-</div>
-
 ---
 
 ### 🚀 What I'm Upskilling On?
