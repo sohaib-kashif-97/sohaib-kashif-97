@@ -32,9 +32,9 @@ I'm diving into several exciting areas to build my technical skills and explore 
 
 ---
 
-### 📝 New Article in Progress - How to get started with ROS2 and Gazebo Simulation:
+### 📝 New Article in Progress - Moving your 3D Object with ROS2 and Gazebo Simulation:
 
-I'm creating a new article on my recent experience with 3D Simulations in ROS2 and Gazebo. I will divide the content into two halves (So stay tuned for Part 2!) for ease of understanding.
+My Part 1 of my ROS2 and Gazebo Simulation Tutorials has been published. Now I'm creating a new article on Part 2, extending on how to control the object.
 
 **Objective:** I will be implementing a simple Quadcopter which can be moved with a simple Velocity Controller and Odometry Plugin.
 
