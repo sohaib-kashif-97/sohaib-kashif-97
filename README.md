@@ -58,9 +58,10 @@ I might be new here but stick around for more. I recently created a new profile 
 
 ### 📫 How to reach me? Connect with me on my Profiles & Socials Below:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" height="30" width="40" /> LinkedIn Profile </a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/14sohaibbk97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/14sohaibbk97" height="30" width="40" /> Hackerrank </a>
-<a href="https://www.leetcode.com/sohaibkashif97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohaibkashif97" height="30" width="40" /> LeetCode </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sohaib-bin-kashif/" height="30" width="40" /> LinkedIn Profile </a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/14sohaibbk97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/14sohaibbk97" height="30" width="40" /> Hackerrank </a>
+<a href="https://www.leetcode.com/sohaibkashif97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohaibkashif97" height="30" width="40" /> LeetCode </a>
+  <a href="https://medium.com/@14sohaibbk97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" />Medium</a>
 </p>
 
 ---
